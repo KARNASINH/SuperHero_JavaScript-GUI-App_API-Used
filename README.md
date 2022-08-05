@@ -19,7 +19,7 @@ Once they click on the search button it will give you the list of Superheros fro
  - [x] HTML
  - [x] CSS
  - [x] Bootstrap
- - [x] 3rd Party API
+ - [x] 3rd Party API (https://www.superheroapi.com/api.php/1310202806140671/search/spider)
  
 ## Screenshots
 
